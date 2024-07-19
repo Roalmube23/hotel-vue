@@ -38,7 +38,7 @@
           },
           {
             name: 'Bungee Jumping',
-            image: 'https://i0.wp.com/pxsports.com/wp-content/uploads/2021/06/15-bungee.png?fit=1200%2C740',
+            image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a2/11/58/colombia-bungee-jumping.jpg?w=1200&h=900&s=1',
             description: 'Salta desde una altura increíble y experimenta la emoción de la caída libre.',
             element: 'Aire',
             price: 250000,
