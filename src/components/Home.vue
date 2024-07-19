@@ -28,7 +28,7 @@
           </div>
           <div class="service">
             <q-img
-              src="/public/img/restaurant.jpg"
+              src="../assets/img/restaurant.jpg"
               alt="Restaurante"
               class="service-img"
               @click="$router.push('/Servicios')"
